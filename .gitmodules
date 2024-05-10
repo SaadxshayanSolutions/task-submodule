@@ -1,0 +1,3 @@
+[submodule "lib/task-submodule"]
+	path = lib/task-submodule
+	url = https://github.com/SaadxshayanSolutions/task-submodule.git
