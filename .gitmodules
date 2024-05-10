@@ -1,3 +1,6 @@
 [submodule "lib/task-submodule"]
 	path = lib/task-submodule
 	url = https://github.com/SaadxshayanSolutions/task-submodule.git
+[submodule "lib/Leaning-Marshal"]
+	path = lib/Leaning-Marshal
+	url = https://github.com/athar-shayan/Leaning-Marshal.git
